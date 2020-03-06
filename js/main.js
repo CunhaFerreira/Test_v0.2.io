@@ -15,7 +15,7 @@ $(document).ready(function () {
                 return false;
             })
 
-            $('.project-section .button-group #btn1').trigger('click');
+            //$('.project-section .button-group #btn1').trigger('click'); Add this function if images with diff. size has been added
 
 
             //Sticky Navegation Menu
